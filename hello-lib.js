@@ -1,7 +1,7 @@
 /*
- (c) 2014, Vladimir Agafonkin
+ (c) 2015, Alaf azam
  Hello Lib, a JavaScript library for something very useful.
- https://github.com/mourner/hello-lib
+ https://github.com/alafazam/hello-lib
 */
 
 (function () { 'use strict';
